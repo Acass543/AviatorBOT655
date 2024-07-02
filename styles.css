@@ -1,0 +1,11 @@
+</style>
+</head>
+<body>
+  <div id="inicio">
+    <div class="mensagem">ATENÇÃO PARA ESSE BOT FUNCIONAR 100% CRIE UMA CONTA NOVA DENTRO DELE</div>
+    <button class="botao-acessar" onclick="abrirWebview()">ACESSAR BOT</button>
+  </div>
+
+  <div id="webview-container">
+    <iframe id="webview" src="" frameborder="0" allowfullscreen></iframe>
+  </div>
